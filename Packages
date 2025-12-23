@@ -15,3 +15,12 @@ Description: Spero che funzioni.
 Filename: https://github.com/pyramidsoftwares/repo/blob/main/debs/bag.xml.tuberepair_1.1-Beta-2_iphoneos-arm.deb
 Size: 101918
 MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
+
+Package: com.skitty.weatherx
+Name: WeatherX
+Version: 3.1
+Architecture: iphoneos-arm
+Description: Pane e Aglio
+Filename: debs/WeatherX.deb
+Size: 86016
+MD5sum: A6261FCBCBE36290F4AAA25357744D9E
