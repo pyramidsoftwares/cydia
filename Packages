@@ -7,7 +7,7 @@ Filename: debs/tuo-file.deb
 Size: 12345
 MD5sum: (codice md5)
 
-Package: bag.xml.tuberepair
+Package: com.bag.xml.tuberepair
 Name: TubeRepair
 Version: 1.1-Beta-2
 Architecture: iphoneos-arm
