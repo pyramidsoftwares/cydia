@@ -9,7 +9,7 @@ MD5sum: (codice md5)
 
 Package: bag.xml.tuberepair
 Name: TubeRepair
-Version: 1.1-Beta-2
+Version: 1:1.1-Beta-2
 Architecture: iphoneos-arm
 Description: Spero che funzioni.
 Filename: debs/tuberepair.deb
@@ -18,7 +18,7 @@ MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
 
 Package: com.skitty.weatherx
 Name: WeatherX
-Version: 3.1
+Version:1:3.1
 Architecture: iphoneos-arm
 Description: Pane e Aglio
 Filename: debs/WeatherX.deb
@@ -27,7 +27,7 @@ MD5sum: A6261FCBCBE36290F4AAA25357744D9E
 
 Package: eu.heinelt.ifile
 Name: iFile
-Version: 2.2.0-1
+Version: 1:2.2.0-1
 Architecture: iphoneos-arm
 Description: iFile
 Filename: debs/ifile.deb
