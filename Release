@@ -1,7 +1,7 @@
-Origin: Pyramid Softwares
-Label: Pyramid softwares
+Origin: Pyramid Softwares for Cydia
+Label: Pyramid softwares for Cydia
 Suite: stable
-Version: 0.1
+Version: 1.0-official
 Codename: iOS-Legacy
 Architectures: iphoneos-arm
 Components: main
